@@ -11,7 +11,7 @@ status-website:
   cname: uptime.tabbyml.com
   theme: light
   logoUrl: https://tabbyml.github.io/tabby/img/logo.png
-  themeUrl: https://uptime.tabbyml.com/tabby.css
+  themeUrl: https://cdn.statically.io/gh/TabbyML/uptime/master/assets/tabby.css
   name: TabbyML Status
   introTitle: Uptime stats for TabbyML
   introMessage: "**Tabby** is the open-source AI coding assistant, powered by TabbyML, Inc."
