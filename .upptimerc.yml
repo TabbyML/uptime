@@ -19,7 +19,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Tabby
+    - title: Github
       href: https://github.com/tabbyml/tabby
     - title: Tabby Cloud
       href: https://app.tabbyml.com
