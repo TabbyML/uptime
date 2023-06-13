@@ -8,13 +8,11 @@ sites:
     method: POST
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.tabbyml.com
   theme: light
   logoUrl: https://tabbyml.github.io/tabby/img/logo.png
-  name: TabbyML Uptime
-  introTitle: Status page for TabbyML's services
+  name: TabbyML Status
+  introTitle: Uptime stats for TabbyML
   introMessage: "**Tabby** is the open-source AI coding assistant, powered by TabbyML, Inc."
   navbar:
     - title: Status
