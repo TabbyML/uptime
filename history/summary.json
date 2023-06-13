@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/playground.app.tabbyml.com.ico",
     "slug": "playground",
     "status": "down",
-    "uptime": "4.27%",
-    "uptimeDay": "4.27%",
-    "uptimeWeek": "4.27%",
-    "uptimeMonth": "4.27%",
-    "uptimeYear": "4.27%",
-    "time": 515,
-    "timeDay": 515,
-    "timeWeek": 515,
-    "timeMonth": 515,
-    "timeYear": 515,
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
+    "time": 439,
+    "timeDay": 439,
+    "timeWeek": 439,
+    "timeMonth": 439,
+    "timeYear": 439,
     "dailyMinutesDown": {
-      "2023-06-13": 0
+      "2023-06-13": 5
     }
   }
 ]
