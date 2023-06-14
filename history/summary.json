@@ -4,19 +4,19 @@
     "url": "https://playground.app.tabbyml.com/tabby/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/playground.app.tabbyml.com.ico",
     "slug": "playground",
-    "status": "down",
-    "uptime": "89.33%",
-    "uptimeDay": "89.33%",
-    "uptimeWeek": "89.33%",
-    "uptimeMonth": "89.33%",
-    "uptimeYear": "89.33%",
-    "time": 882,
-    "timeDay": 882,
-    "timeWeek": 882,
-    "timeMonth": 882,
-    "timeYear": 882,
+    "status": "up",
+    "uptime": "75.89%",
+    "uptimeDay": "75.89%",
+    "uptimeWeek": "75.89%",
+    "uptimeMonth": "75.89%",
+    "uptimeYear": "75.89%",
+    "time": 837,
+    "timeDay": 837,
+    "timeWeek": 837,
+    "timeMonth": 837,
+    "timeYear": 837,
     "dailyMinutesDown": {
-      "2023-06-14": 36
+      "2023-06-14": 96
     }
   }
 ]
