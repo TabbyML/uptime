@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/playground.app.tabbyml.com.ico",
     "slug": "playground",
     "status": "up",
-    "uptime": "97.44%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "97.44%",
-    "uptimeMonth": "97.44%",
-    "uptimeYear": "97.44%",
-    "time": 796,
-    "timeDay": 344,
-    "timeWeek": 796,
-    "timeMonth": 796,
-    "timeYear": 796,
+    "uptime": "97.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "97.88%",
+    "uptimeYear": "97.88%",
+    "time": 758,
+    "timeDay": 324,
+    "timeWeek": 758,
+    "timeMonth": 758,
+    "timeYear": 758,
     "dailyMinutesDown": {
-      "2023-06-16": 7,
       "2023-06-14": 96
     }
   }
