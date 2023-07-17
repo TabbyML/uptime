@@ -1,7 +1,7 @@
 url: https://playground.app.tabbyml.com/v1/health
-status: up
-code: 200
-responseTime: 682
-lastUpdated: 2023-07-16T23:02:50.807Z
+status: down
+code: 502
+responseTime: 142
+lastUpdated: 2023-07-17T09:32:00.477Z
 startTime: Tue Jun 13 2023 20:44:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
