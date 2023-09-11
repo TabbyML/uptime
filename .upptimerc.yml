@@ -7,7 +7,7 @@ sites:
     url: https://playground.app.tabbyml.com/v1/health
     method: POST
     headers:
-    - "Origin: https://tabbyml.github.io"
+    - "Origin: https://tabby.tabbyml.com"
 
 status-website:
   cname: uptime.tabbyml.com
