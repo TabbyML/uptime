@@ -4,19 +4,19 @@
     "url": "https://app.tabbyml.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.tabbyml.com.ico",
     "slug": "tabby-cloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 317,
-    "timeDay": 263,
-    "timeWeek": 312,
-    "timeMonth": 317,
-    "timeYear": 317,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 314,
+    "timeDay": 269,
+    "timeWeek": 307,
+    "timeMonth": 314,
+    "timeYear": 314,
     "dailyMinutesDown": {
-      "2023-11-02": 0
+      "2023-11-02": 10
     }
   }
 ]
