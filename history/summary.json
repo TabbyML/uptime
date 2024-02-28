@@ -1,20 +1,40 @@
 [
   {
-    "name": "Tabby Cloud",
-    "url": "https://app.tabbyml.com",
-    "icon": "https://icons.duckduckgo.com/ip3/app.tabbyml.com.ico",
-    "slug": "tabby-cloud",
+    "name": "Hugging Face",
+    "url": "https://huggingface.co",
+    "icon": "https://icons.duckduckgo.com/ip3/huggingface.co.ico",
+    "slug": "hugging-face",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 47,
+    "timeDay": 47,
+    "timeWeek": 47,
+    "timeMonth": 47,
+    "timeYear": 47,
+    "dailyMinutesDown": {
+      "2024-02-28": 0
+    }
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.com",
+    "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
+    "slug": "git-hub",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 304,
-    "timeDay": 374,
-    "timeWeek": 361,
-    "timeMonth": 291,
-    "timeYear": 304,
+    "time": 45,
+    "timeDay": 45,
+    "timeWeek": 45,
+    "timeMonth": 45,
+    "timeYear": 45,
     "dailyMinutesDown": {}
   }
 ]
