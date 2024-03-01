@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/huggingface.co.ico",
     "slug": "hugging-face",
     "status": "up",
-    "uptime": "28.88%",
-    "uptimeDay": "28.88%",
-    "uptimeWeek": "28.88%",
-    "uptimeMonth": "28.88%",
-    "uptimeYear": "28.88%",
-    "time": 69,
-    "timeDay": 69,
-    "timeWeek": 69,
-    "timeMonth": 69,
-    "timeYear": 69,
+    "uptime": "93.93%",
+    "uptimeDay": "93.82%",
+    "uptimeWeek": "93.93%",
+    "uptimeMonth": "93.93%",
+    "uptimeYear": "93.93%",
+    "time": 72,
+    "timeDay": 57,
+    "timeWeek": 72,
+    "timeMonth": 72,
+    "timeYear": 72,
     "dailyMinutesDown": {
       "2024-02-29": 90
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 45,
-    "timeDay": 45,
-    "timeWeek": 45,
-    "timeMonth": 45,
-    "timeYear": 45,
+    "time": 46,
+    "timeDay": 47,
+    "timeWeek": 46,
+    "timeMonth": 46,
+    "timeYear": 46,
     "dailyMinutesDown": {}
   }
 ]
