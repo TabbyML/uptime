@@ -10,6 +10,10 @@ sites:
   - name: GitHub
     url: https://github.com
     method: GET
+
+  - name: Tabby Demo
+    url: https://demo.tabbyml.com/metrics
+    method: GET
     
 status-website:
   cname: uptime.tabbyml.com
