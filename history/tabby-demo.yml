@@ -1,7 +1,7 @@
 url: https://demo.tabbyml.com/metrics
-status: down
-code: 502
-responseTime: 325
-lastUpdated: 2024-06-04T00:26:32.733Z
+status: up
+code: 200
+responseTime: 68
+lastUpdated: 2024-06-04T00:48:12.821Z
 startTime: 2024-05-03T19:40:43.439Z
 generator: Upptime <https://github.com/upptime/upptime>
