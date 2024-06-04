@@ -44,7 +44,7 @@
     "url": "https://demo.tabbyml.com/metrics",
     "icon": "https://icons.duckduckgo.com/ip3/demo.tabbyml.com.ico",
     "slug": "tabby-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "98.49%",
     "uptimeWeek": "99.78%",
