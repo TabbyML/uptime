@@ -44,17 +44,19 @@
     "url": "https://demo.tabbyml.com/metrics",
     "icon": "https://icons.duckduckgo.com/ip3/demo.tabbyml.com.ico",
     "slug": "tabby-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 283,
-    "timeDay": 285,
-    "timeWeek": 244,
-    "timeMonth": 278,
-    "timeYear": 283,
-    "dailyMinutesDown": {}
+    "time": 285,
+    "timeDay": 305,
+    "timeWeek": 254,
+    "timeMonth": 280,
+    "timeYear": 285,
+    "dailyMinutesDown": {
+      "2024-06-04": 0
+    }
   }
 ]
